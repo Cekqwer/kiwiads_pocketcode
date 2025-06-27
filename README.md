@@ -85,7 +85,7 @@
 - Detailed performance stats
 
 
-📧 **Contact:** https:t.me/cekqwerbot  
-🌐 **Website:** https:t.me/cekqwer
+📧 **Contact:** https://t.me/cekqwerbot  
+🌐 **Website:** https://t.me/cekqwer
 
 *(Тут може бути схема роботи системи)*
