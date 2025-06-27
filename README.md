@@ -63,7 +63,7 @@
 </details>
 
 <details>
-<summary><h2>🏴󠁧󠁢󠁥󠁮󠁧󠁿 English</h2></summary>
+<summary><h2>🇺🇸English</h2></summary>
 
 ## 🔥 Real Monetization for Pocket Code Games
 
