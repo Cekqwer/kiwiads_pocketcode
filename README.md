@@ -1,4 +1,4 @@
-# 🥝 KiwiADS | Партнерська рекламна мережа 
+# 🥝 KiwiADS | Passive money💷
 
 <details>
 <summary><h2>🇺🇦 Українська</h2></summary>
