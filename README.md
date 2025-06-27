@@ -57,13 +57,13 @@
 - Детальная аналитика
 
 
-📧 **Контакты:** https:t.me/cekqwerbot  
-🌐 **Сайт:** https:t.me/cekqwer
+📧 **Контакты:** https://t.me/cekqwerbot  
+🌐 **Сайт:** https://t.me/cekqwer
 
 </details>
 
 <details>
-<summary><h2>🇺🇸English</h2></summary>
+<summary><h2>🇺🇸 English</h2></summary>
 
 ## 🔥 Real Monetization for Pocket Code Games
 
