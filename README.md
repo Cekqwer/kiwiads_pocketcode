@@ -57,7 +57,7 @@
 - Детальная аналитика
 
 
-📧 **Контакты:** https://t.me/cekqwerbot  
+📧 **Контакты:** https://t.me/cekqwer_bot  
 🌐 **Сайт:** https://t.me/cekqwer
 
 </details>
