@@ -1,4 +1,4 @@
-# 🥝 KiwiADS | Passive money💷
+# 🥝 KiwiADS | AdService for low-power Engines
 
 <details>
 <summary><h2>🇺🇦 Українська</h2></summary>
@@ -28,7 +28,8 @@
 - Система рейтингів ігор
 - Мобільний додаток для моніторингу
 
-📧 **Зв'язок:** https://t.me/cekqwerbot  
+📧 **Зв'язок для рекламодавців:** https://t.me/cekqwer_bot  
+📧 **Зв'язок для розробників:** https://t.me/cekqwer_devs_bot  
 🌐 **Сайт:** (https://t.me/cekqwer)
 
 </details>
@@ -57,7 +58,8 @@
 - Детальная аналитика
 
 
-📧 **Контакты:** https://t.me/cekqwer_bot  
+📧 **Контакты для Рекламодателей:** https://t.me/cekqwer_bot  
+📧 **Контакты для Разработчиков:** https://t.me/cekqwer_devs_bot  
 🌐 **Сайт:** https://t.me/cekqwer
 
 </details>
@@ -85,5 +87,7 @@
 - Detailed performance stats
 
 
-📧 **Contact:** https://t.me/cekqwerbot  
+
+📧 **Contact for Advertisers:** https://t.me/cekqwer_bot  
+📧 **Contact for Devs:** https://t.me/cekqwer_devs_bot
 🌐 **Website:** https://t.me/cekqwer
